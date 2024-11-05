@@ -5,25 +5,20 @@ Je m'appelle Adam Tbatou, je suis Administrateur Systèmes DevOps actuellement e
 ## Formation
 
 **Titre certifié d'Administrateur Système DevOps** | 2024 - Aujourd'hui
-
 *WildCodeSchool*
 
 **Trois certificats de Développement Web** | 2022 - 2023
-
 *freeCodeCamp*
 
 **Master Ingénieur d'Affaires en Hautes Technologie** | 2019 - 2021
-
 *Euridis Business School Paris*
 
 ## Expérience professionnelle
 
 **Réalisations de sites vitrines en React**  | 2023
-
 *Studio de Jeux Vidéo*
 
 **Business Developer Channel**  | 2019 - 2021
-
 *SensioLabs*
 
 ## Hobbies
