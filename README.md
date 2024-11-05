@@ -3,6 +3,8 @@
 
 Je m'appelle Adam Tbatou, je suis Administrateur Systèmes DevOps actuellement en formation à la Wild Code School, et en recherche d'alternance. Pour me contacter, vous pouvez m'écrire un [mail](mailto:adamtbatou@free.fr), je vous réponds dans l'heure.
 
+Je suis également présent, sur [LinkedIn](https://fr.linkedin.com/in/adamtbatou) et la [plateforme Github](https://github.com/Poudlardo).
+
 ## Formation
 
 **Titre certifié d'Administrateur Système DevOps** | 2024 - Aujourd'hui  
